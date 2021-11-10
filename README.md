@@ -23,79 +23,86 @@ A book is by its very nature, monolithic and tedious to digest, I suggest flashc
 # 3-6 Weeks 
 Okay so you have a bit of time, my first recommendation still holds, use the [first book](books/Hands-On-ML.pdf) as a bit of guide. However here's where you can dive into the forest and learn about the trees. This is possibly the most useful section, as it outlines a few concepts and where to go to learn them. Additionally, algorithms resources are listed from the most-essential to least essential, in other terms, for EACH individual algorithm the ordering of resources should be sequential. TThhat being said, you can jump around algorithms 
 ## Algorithms  
+### Supervised Methods
 This is where all the hype in ML lay, but is not the full picture. That being said, the following breakdown should assist in pointing you to where to find certain resources.  
 
 [This playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) is Andrew Ng's 2012 Machine Learning course on Coursera, but updated and using Python instead of MATLAB  
 *Please stay away from MATLAB...*
 
-### kNN  
+#### kNN  
 [Develop kNN from Scratch in Python](https://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/)  
 [kNN for Machine Learning](https://machinelearningmastery.com/k-nearest-neighbors-for-machine-learning/)  
 
-### Linear Regression  
+#### Linear Regression  
 Chapter 3  [Pattern Recognition and Machine Learning](books/Pattern-Recognition-And-Machine-Learning-Bishop.pdf)  
 Chapter 3  [Elements of Statistical Learning](books/ESL.pdf)
 
-### Linear Classification  
+#### Linear Classification  
 Chapter 4 [Pattern Recognition and Machine Learning](books/Pattern-Recognition-And-Machine-Learning-Bishop.pdf)    
-Chapter 4 [An Introduction to Statistical Learning](books/AnIntroduction-to-Statistical-Learning-with-Applications-in-R.pdf) 
+Chapter 4 [An Introduction to Statistical Learning](books/AnIntroduction-to-Statistical-Learning-with-Applications-in-R.pdf)   
 Chapter 5 [Hands on Machine Learning with Scikit-Learn, Keras and TensorFlow](books/Hands-On-ML.pdf)   
 Chapter 6 [Hands on Machine Learning with Scikit-Learn, Keras and TensorFlow](books/Hands-On-ML.pdf)   
 
-### Tree-Based Methods  
+#### Tree-Based Methods  
 [Classification and Regression Trees in Python](https://machinelearningmastery.com/classification-and-regression-trees-for-machine-learning/)
 [Random Forest in Python](https://machinelearningmastery.com/random-forest-ensemble-in-python/)  
 Chapter 8 [An Introduction to Statistical Learning](books/AnIntroduction-to-Statistical-Learning-with-Applications-in-R.pdf)
 
-### Anomaly Detection  
+#### Anomaly Detection  
 Chapter 4 [Hands on Unsupervised Learning Using Python](books/Hands-On-Unsupervised-Learning-Using-Python.pdf)  
 Chapter 6, 7, 8 [Anomaly Detection: Principles and Algorithms](books/Anomaly-Detection-Principles-and-Algorithms.pdf)  
 
-### Pattern Mining  
-Chapter 6 [Data Mining: Concepts and Techniques](books/Data-Mining-Concepts-and-Techniques.pdf)  
 
-### Clustering  
+### Unsupervised Methods
+#### Dimensionality Reduction  
+Chapter 3 [Hands on Unsupervised Learning Using Python](books/Hands-On-Unsupervised-Learning-Using-Python.pdf)  
+Chapter 8 [Hands on Machine Learning with Scikit-Learn, Keras and TensorFlow](books/Hands-On-ML.pdf)  
+
+#### Clustering  
 Chapter 10 [Data Mining: Concepts and Techniques](books/Data-Mining-Concepts-and-Techniques.pdf)  
 Chapter 11 [Data Mining: Concepts and Techniques](books/Data-Mining-Concepts-and-Techniques.pdf)  
 Chapter 5 [Hands on Unsupervised Learning Using Python](books/Hands-On-Unsupervised-Learning-Using-Python.pdf)
 
-### Dimensionality Reduction  
-Chapter 3 [Hands on Unsupervised Learning Using Python](books/Hands-On-Unsupervised-Learning-Using-Python.pdf)
-Chapter 8 [Hands on Machine Learning with Scikit-Learn, Keras and TensorFlow](books/Hands-On-ML.pdf)    
+#### Autoencoders 
+Chapter 7 [Hands on Unsupervised Learning Using Python](books/Hands-On-Unsupervised-Learning-Using-Python.pdf)
+
+#### Pattern Mining  
+Chapter 6 [Data Mining: Concepts and Techniques](books/Data-Mining-Concepts-and-Techniques.pdf)  
+
 
 ## Feature Engineering  
 [Feature Engineering for Machine Learning](books/Feature-Engineering-for-Machine-Learning.pdf)
 
 ## Model Training   
-[Andrew Ng Linear Regression and Gradient Descent](https://www.youtube.com/watch?v=4b4MUYve_U8&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=2)  
-[Gradient Descent by StatQuest](https://www.youtube.com/watch?v=sDv4f4s2SB8)
-Chapter 4 [Hands on Machine Learning with Scikit-Learn, Keras and TensorFlow](books/Hands-On-ML.pdf)
+[Andrew Ng Linear Regression and Gradient Descent](https://www.youtube.com/watch?v=4b4MUYve_U8&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=2)   
+[Gradient Descent by StatQuest](https://www.youtube.com/watch?v=sDv4f4s2SB8)  
+Chapter 4 [Hands on Machine Learning with Scikit-Learn, Keras and TensorFlow](books/Hands-On-ML.pdf)  
 
 ## Model Selection and Evaluation  
-[Scikit-Learn Tutorial](https://scikit-learn.org/stable/model_selection.html)
+[Scikit-Learn Tutorial](https://scikit-learn.org/stable/model_selection.html)  
 Chapter 6 [Elements of Statistical Learning](books/ESL.pdf)  
 Chapter 14 [ISL](books/Introduction-to-Statistical-Machine-Learning.pdf)  
-Chapter 7 [An Introduction to Statistical Learning](books/AnIntroduction-to-Statistical-Learning-with-Applications-in-R.pdf)
+Chapter 7 [An Introduction to Statistical Learning](books/AnIntroduction-to-Statistical-Learning-with-Applications-in-R.pdf)  
 
 ### Boosting, Bagging and Ensemble Methods  
-Chapter 10 [Elements of Statistical Learning](books/ESL.pdf)
-Chapter 16 [Elements of Statistical Learning](books/ESL.pdf)
+Chapter 10 [Elements of Statistical Learning](books/ESL.pdf)  
+Chapter 16 [Elements of Statistical Learning](books/ESL.pdf)  
 
 ## Deep Learning 
 *still in-progress, this area is HUGE, may split into sub-areas*  
 Chapter 5 [Pattern Recognition and Machine Learning](books/Pattern-Recognition-And-Machine-Learning-Bishop.pdf)  
-[Image Classification in TensorFlow](https://www.tensorflow.org/tutorials/keras/classification)
+[Image Classification in TensorFlow](https://www.tensorflow.org/tutorials/keras/classification)  
 [Text Classification in TensorFlow](https://www.tensorflow.org/tutorials/keras/text_classification)  
 [The Official TensorFlow Guide](https://www.tensorflow.org/guide)  <- HIGHLY Recommend  
-[Introduction to Neural Networks](https://www.youtube.com/watch?v=MfIjxPh6Pys&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=11)  
+[Introduction to Neural Networks](https://www.youtube.com/watch?v=MfIjxPh6Pys&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=11)   
 [Training Neural Networks](https://www.youtube.com/watch?v=zUazLXZZA2U&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=12)  
-[Error Analysis for ML](https://www.youtube.com/watch?v=ORrStCArmP4&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=13) 
+[Error Analysis for ML](https://www.youtube.com/watch?v=ORrStCArmP4&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=13)  
 
 
 ## Data  
 ### Sampling Methods  
-[Andrew Ng Models and Cross Validation](https://www.youtube.com/watch?v=rjbkWSTjHzM&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=8)  
-Chapter 5 [An Introduction to Statistical Learning](books/AnIntroduction-to-Statistical-Learning-with-Applications-in-R.pdf)
+[Andrew Ng Models and Cross Validation](https://www.youtube.com/watch?v=rjbkWSTjHzM&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=8)   
+Chapter 5 [An Introduction to Statistical Learning](books/AnIntroduction-to-Statistical-Learning-with-Applications-in-R.pdf)  
 
 # Life Never Ends
 This is dumb, learning everything makes no sense
