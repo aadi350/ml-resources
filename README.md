@@ -1,7 +1,6 @@
 # Concise List of Machine Learning Resources <!-- omit in toc -->
 *This repository does not contain any actual theory, it simply points to online articles, book chapters and courses that I find useful*  
 It is broken into three sections:
-
 - [I have an Interview Tomorrow](#i-have-an-interview-tomorrow) 
 - [3-6 Weeks](#3-6-weeks)
 - [Life Never Ends](#life-never-ends)
