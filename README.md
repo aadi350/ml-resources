@@ -1,9 +1,29 @@
 # Concise List of Machine Learning Resources <!-- omit in toc -->
 *This repository does not contain any actual theory, it simply points to online articles, book chapters and courses that I find useful*  
 It is broken into three sections:
-- [I have an Interview Tomorrow](#i-have-an-interview-tomorrow) 
+- [I have an Interview Tomorrow](#i-have-an-interview-tomorrow)
+  - [Books](#books)
 - [3-6 Weeks](#3-6-weeks)
-- [Life Never Ends](#life-never-ends)
+  - [Algorithms](#algorithms)
+    - [Supervised Methods](#supervised-methods)
+      - [kNN](#knn)
+      - [Linear Regression](#linear-regression)
+      - [Linear Classification](#linear-classification)
+      - [Tree-Based Methods](#tree-based-methods)
+      - [Anomaly Detection](#anomaly-detection)
+    - [Unsupervised Methods](#unsupervised-methods)
+      - [Dimensionality Reduction](#dimensionality-reduction)
+      - [Clustering](#clustering)
+      - [Autoencoders](#autoencoders)
+      - [Pattern Mining](#pattern-mining)
+  - [Feature Engineering](#feature-engineering)
+  - [Model Training](#model-training)
+  - [Model Selection and Evaluation](#model-selection-and-evaluation)
+    - [Boosting, Bagging and Ensemble Methods](#boosting-bagging-and-ensemble-methods)
+  - [Deep Learning](#deep-learning)
+  - [Data](#data)
+    - [Sampling Methods](#sampling-methods)
+- [I have a LOT of Time](#i-have-a-lot-of-time)
 
 If you had to learn the bare-minimum and are in a time-crunch, stick to section one.  
 If you have a bit more time, cover section one AND explore section 2 
@@ -104,5 +124,5 @@ Chapter 5 [Pattern Recognition and Machine Learning](books/Pattern-Recognition-A
 [Andrew Ng Models and Cross Validation](https://www.youtube.com/watch?v=rjbkWSTjHzM&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=8)   
 Chapter 5 [An Introduction to Statistical Learning](books/AnIntroduction-to-Statistical-Learning-with-Applications-in-R.pdf)  
 
-# Life Never Ends
-This is dumb, learning everything makes no sense
+# I have a LOT of Time
+*This is in-progress*
