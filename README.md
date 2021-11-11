@@ -100,7 +100,7 @@ Chapter 4 [Hands on Machine Learning with Scikit-Learn, Keras and TensorFlow](bo
 
 ## Model Selection and Evaluation  
 [Scikit-Learn Tutorial](https://scikit-learn.org/stable/model_selection.html)  
-Chapter 6 [Elements of Statistical Learning](books/ESL.pdf)  
+Chapter 7 [Elements of Statistical Learning](books/ESL.pdf)  
 Chapter 14 [ISL](books/Introduction-to-Statistical-Machine-Learning.pdf)  
 Chapter 7 [An Introduction to Statistical Learning](books/AnIntroduction-to-Statistical-Learning-with-Applications-in-R.pdf)  
 
